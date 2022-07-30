@@ -37,7 +37,7 @@
 | [Aprendiendo el sistema de archivos de Linux](https://www.youtube.com/watch?v=HIXzJ3Rz9po) | Principiante |
 | [Guía para novatos en Linux](https://www.youtube.com/watch?v=knrc4q1S_q0) | Principante |
 
-## **Blogs & Noticias, etc.** 📰️
+## **Blogs & Noticias** 📰️
 
 | Nombre | Tipo |
 | ----------- | ----------- |
@@ -73,7 +73,7 @@
 | [Kernel.org](https://www.kernel.org/) | Archivos de los Kernel de Linux |
 | [Distro Watch](https://distrowatch.com/) | Discusiones y revisiones acerca de las distribuciones de Linux |
 
-## **Extras** (Mejores canales de Youtube en Inglés y Español) 📽️
+## **Extra** (Mejores canales de Youtube en Inglés y Español) 📽️
 
 | Nombre | Idioma |
 | ----------- | ----------- |
