@@ -45,7 +45,7 @@
 | [nixCraft](https://www.cyberciti.biz) | Blog, tips, hacks y tutoriales |
 | [OMG Ubuntu](https://www.omgubuntu.co.uk) | Blog |
 | [LinuxScoop](https://linuxscoop.com) | Blog |
-| [Linux](https://www.linux.com) | Blog, noticias |
+| [Linux](https://www.linux.com) | Blog y noticias |
 
 ## **Libros** 📖️
 
